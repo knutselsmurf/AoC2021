@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AoC2021/AoC2021_1_1/bin/Debug/net6.0
+/AoC2021/AoC2021_1_1/obj
+/AoC2021/AoC2021_1_2/bin/Debug/net6.0
+/AoC2021/AoC2021_1_2/obj
+/.vs
+/AoC2021/.vs
